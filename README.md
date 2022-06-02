@@ -31,6 +31,7 @@ MATRIZ IMAGENS DE TONS DE CINZA
 
 ---
 
+##### `31/05/22`
 
 ### Adjacência e Conetividade
 #### Adj = Mesma intensidade
