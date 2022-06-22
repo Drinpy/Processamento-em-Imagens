@@ -1,13 +1,15 @@
-	int main(void) 
+  #include <stdio.h>
+  
+    int main(void) 
 {
-	// Código base do Neves.
+    // Código Base do Neves
 	FILE *arq;
 	FILE *arq_saida;
 	int col, lin, escala;
 	char tipo[2], comentario[100];
 	
 	//Leitura e armazenamento do arquivo inicial
-	arq = fopen("imagem.txt", "r");
+	arq = fopen("imagem.pgm", "r");
 	if (arq == NULL) 
 	{
 		printf("Falha ao abrir o arquivo");
