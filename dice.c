@@ -17,7 +17,7 @@ void dicing(image In, image Out, int nl, int nc, int mn)
 
 void msg(char *s)
 {
-    printf("\nConvolucao");
+    printf("\ndice"); // Em caso de mudança fazer 'make' de novo
     printf("\n-------------------------------");
     printf("\nUso:  %s  nome-imagem[.pgm] \n\n", s);
     printf("    nome-imagem[.pgm] é o nome do arquivo da imagem \n");
