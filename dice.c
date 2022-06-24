@@ -1,13 +1,7 @@
-/*-------------------------------------------------------------------------
- * Operacao de convolucao
- * Por Luiz Eduardo da Silva.
- *-------------------------------------------------------------------------*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "imagelib.h"
-
 
 
 void dicing(image In, image Out, int nl, int nc, int mn)
@@ -33,6 +27,7 @@ void msg(char *s)
 /*-------------------------------------------------------------------------
  * main function
  *-------------------------------------------------------------------------*/
+
 int main(int argc, char *argv[])
 {
     int nc, nr, ml, tp;
