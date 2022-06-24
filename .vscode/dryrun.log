@@ -1,0 +1,11 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/2020.1.08.036/Desktop/primos'
+\
+    gcc -g -c dice.c
+ 
+\
+    gcc -g -c imagelib.c
+\
+    gcc -g -o diced dice.o imagelib.o -lm 
+make: Leaving directory '/home/2020.1.08.036/Desktop/primos'
+ 
