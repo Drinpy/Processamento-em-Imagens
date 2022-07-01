@@ -51,6 +51,6 @@ MATRIZ IMAGENS DE TONS DE CINZA
 
 ---
 
-##### `07/06/22`
+##### `01/07/22`
 
-### 
+`1 Byte = 8 Bits`
