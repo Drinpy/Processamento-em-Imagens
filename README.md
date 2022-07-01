@@ -1,7 +1,8 @@
 # Processamento-em-Imagens
 
+<details>
 
-##### `30/05/22`
+<summary> <b> 30/05/22 </b> </summary>
 
 
 ### Material para estudo: Moodle slide `3`
@@ -29,9 +30,13 @@
 MATRIZ IMAGENS DE TONS DE CINZA
 </br>
 
+</details>
+
 ---
 
-##### `31/05/22`
+<details>
+
+<summary> <b> 31/05/22 </b> </summary>
 
 ### Adjacência e Conetividade
 #### Adj = Mesma intensidade
@@ -48,9 +53,14 @@ MATRIZ IMAGENS DE TONS DE CINZA
 
 `"4-Vizinho-Adj"` = Significa que os valores ao redor(dentro da regra 4-vizinho) estão com a mesma intensidade.
 
+</details>
 
 ---
 
-##### `01/07/22`
+<details>
+
+<summary> <b> 01/07/22 </b> </summary>
 
 `1 Byte = 8 Bits`
+
+</details>
