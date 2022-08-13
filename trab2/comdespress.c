@@ -136,7 +136,8 @@ int main(int argc, char *argv[])
 
     ui16 in[10] = {4096, 39, 126, 126, 256, 258, 260, 259, 257, 126};
     int in2[16] = {39, 39, 126, 126, 39, 39, 126, 126, 39, 39, 126, 126, 39, 39, 126, 126};
+    char ifs[];
     codifica(in2, 16);
-    decodifica(in, 10);
+    decodifica(in, 10); // tamanho do vetor in ja "traduzido"
     return 0;
 }
